@@ -1,2 +1,2 @@
 # SC_302_DOCUMENTACION
-Ejecercicio GITHUB
+Ejercicio GITHUB
